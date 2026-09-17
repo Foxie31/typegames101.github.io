@@ -1,0 +1,6 @@
+{
+  "name": "Falling Words - Speed Typing Game",
+  "description": "Fast-paced falling words typing defense game with dynamic word physics, combo streaks, modern neon visuals, and suspenseful surprises.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
